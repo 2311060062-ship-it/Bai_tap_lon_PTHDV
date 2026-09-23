@@ -1,0 +1,4 @@
+﻿Tiến độ 2 — 23/09 — Người 2: Danh mục xe
+Phạm vi nộp: mô hình dữ liệu và hợp đồng của dịch vụ xe.
+Gồm Car, CarDetail, CarImage, CarType, Brand, Pricing, repository và DTO hãng, loại xe, đội xe, tình trạng xe.
+Chưa gồm API thêm sửa xóa.
