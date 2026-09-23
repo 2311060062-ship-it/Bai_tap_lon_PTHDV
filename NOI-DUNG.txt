@@ -1,0 +1,4 @@
+﻿Tiến độ 2 — 23/09 — Người 1: Tài khoản và phân quyền
+Phạm vi nộp: mô hình dữ liệu và hợp đồng của dịch vụ tài khoản.
+Gồm User, Customer, Role, repository, DTO đăng ký/đăng nhập/xác thực email, và các lớp dùng chung cho cả nhóm.
+Chưa gồm logic đăng nhập và API.
