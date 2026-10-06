@@ -1,0 +1,3 @@
+﻿Tiến độ 4 — 06/10 — Người 4: Vận hành và nội dung
+Phạm vi nộp: hoàn thiện giao diện và nối client.
+Gồm toàn bộ Tiến độ 3, cộng trang chủ, tin tức, liên hệ, tổng quan admin, báo cáo, hộp thư và cài đặt.
