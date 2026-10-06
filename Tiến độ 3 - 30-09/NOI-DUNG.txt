@@ -1,0 +1,3 @@
+﻿Tiến độ 3 — 30/09 — Người 4: Vận hành và nội dung
+Phạm vi nộp: cài đặt dịch vụ backend.
+Gồm toàn bộ Tiến độ 2, cộng API dashboard, báo cáo, tin tức, liên hệ và cài đặt.
